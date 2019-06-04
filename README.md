@@ -20,6 +20,7 @@ when you can write them like:
 async for request, response in GET('/my/fancy/url'):
     response.body = 'hi'
 ```
+Unlike [WTFPython](https://github.com/satwikkansal/wtfpython), this is not about strange things Python can do. It's about doing normal things in strange ways and understanding why those ways are particularly bad.
 
 Todo
 ====
