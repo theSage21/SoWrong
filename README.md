@@ -2,7 +2,7 @@
 Slides/Code for [Pycon India 2019 talk](https://in.pycon.org/cfp/2019/proposals/sowrong-absurd-ways-to-do-perfectly-normal-things~bkkXb/)
 
 
-Code examples in Python that make you go "This is SO wrong"
+    Code examples in Python that make you go "This is SO wrong"
 
 The idea is to write common stuff in completely absurd ways. For example, why write APIs like this
 ```python
@@ -20,6 +20,9 @@ when you can write them like:
 async for request, response in GET('/my/fancy/url'):
     response.body = 'hi'
 ```
+
+Todo
+====
 
 - [ ] upload slides on github (once Pycon starts)
 - [ ] make code public (once Pycon starts)
