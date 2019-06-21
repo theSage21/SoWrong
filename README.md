@@ -1,5 +1,5 @@
 # SoWrong
-Slides/Code for [Pycon India 2019 talk](https://in.pycon.org/cfp/2019/proposals/sowrong-absurd-ways-to-do-perfectly-normal-things~bkkXb/)
+Code for [Pycon India 2019 talk](https://in.pycon.org/cfp/2019/proposals/sowrong-absurd-ways-to-do-perfectly-normal-things~bkkXb/)
 
 
     Code examples in Python that make you go "This is SO wrong"
@@ -22,8 +22,11 @@ async for request, response in GET('/my/fancy/url'):
 ```
 Unlike [WTFPython](https://github.com/satwikkansal/wtfpython), this is not about strange things Python can do. It's about doing normal things in strange ways and understanding why those ways are particularly bad.
 
-Todo
-====
+[Slides can be found here](https://docs.google.com/presentation/d/e/2PACX-1vSoFqDfoO-B4a7bmF6DkRUMHY_ze3WjYES7pb1IHvhQXIVIARtSRpc-aBmOHnZz-5goUu6F0Yzb02pb/pub?start=false&loop=false&delayms=3000)
 
-- [ ] upload slides on github (once Pycon starts)
-- [ ] make code public (once Pycon starts)
+
+References
+========
+
+- <http://entrian.com/goto/>
+- <https://github.com/snoack/python-goto>
